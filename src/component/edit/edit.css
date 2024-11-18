@@ -1,0 +1,70 @@
+.head_name{
+    margin-top: 1%;
+    color: white;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.contact_home{
+    margin-top: 1%;
+    color: white;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    
+}
+.heading {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 10%;
+    font-size: 37px;
+    font-weight: bold;
+}
+.sub_heading{
+    color: white;
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.my_img{
+    margin-top: 5.8%;
+    height: 280px;
+    float: right;
+}
+.man_text{
+    height: 45px;
+}
+.btn1{
+    width: 120px;
+    height: 40px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 0px;
+    background-color: #0082a8;
+    color: white;
+    align-items: center;
+
+}
+ul li {
+    color: white;
+    margin-top: 1%;
+}
+ul h5 {
+    margin-top: 5%;
+    color: white;
+    font-size: 25px;
+}
+.contact_form{
+    height: 450px; 
+    background-color: white;
+    margin-left: 25%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    position:absolute;
+    top:  90%;
+    left: 5%;
+    
+}
+textarea {
+    width: 100%;
+    height: 130px;
+}
